@@ -1,0 +1,5 @@
+{
+  "editor.acceptSuggestionOnEnter": "on",
+  "editor.inlineSuggest.edits.renderSideBySide": "never",
+  "git.ignoreLimitWarning": true
+}
